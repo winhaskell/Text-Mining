@@ -1,0 +1,28 @@
+Text Mining with R
+https://lstat.kuleuven.be/training/coursedescriptions/text-mining-with-r
+
+Course outline
+This course is a hands-on course covering the use of text mining tools for the purpose of data analysis. 
+It covers basic text handling, natural language engineering and statistical modelling on top of textual data.
+
+The following items are covered :
+Cleaning of text data, regular expressions
+String distances
+Graphical displays of text data
+Natural language processing: stemming, parts-of-speech tagging, tokenization, lemmatisation
+Sentiment analysis
+Statistical topic detection modelling (latent diriclet allocation)
+Automatic classification using predictive modelling based on text data
+Visualisation of correlations & topics
+Word embeddings
+Document similarities & Text alignment
+
+
+
+
+
+
+
+
+
+
