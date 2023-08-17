@@ -1,0 +1,35 @@
+Text and Data Mining Guide
+https://guides.lib.uw.edu/research/text-mining
+
+
+
+What You'll Find in This Guide?
+In this guide you will find the following:
+
+Getting started with Text Mining Project  - Step-by-step guide on how to get started with your text mining 
+project along with examples of past text mining projects from UW researchers and students.
+
+Text Mining Tools - Overview of tools for data collection, web scraping, text cleaning and analytics 
+which can be utilized in your text mining project.
+
+Data Collection Methods - Learn about the various ways to acquire data for your Text and Data Mining (TDM) projects.
+
+Text Analytics & Visualizations - A beginner's guide to working with text data to perform analysis and generate insightful visualization.
+
+
+
+
+How to get started with Text Mining Project?
+
+Before starting a text mining project, it is important to go through the following steps to gauge the feasibility of the project.
+
+What is your research question you are trying to answer?
+What kind of data is required to address this question?
+Do you need textual data? Where can you find it? A website? PDF? API?
+What is the format of the text data at the identified sources?
+Is the data quality at par for our purpose? If not, how do we improve it or acquire higher quality data?
+
+
+
+
+
