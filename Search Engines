@@ -1,0 +1,31 @@
+Search Engines
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The Principle Of Search Engines?
+
+In search engines, there are two main functions. 
+
+The first is to collect information from the Internet and process it by placing it in the data warehouse in a form 
+that will be convenient for searching for information by criteria.
+
+The second is to provide information to the user on request, which is the most relevant content of his search. 
+This means that useful sites will be on top, and so on in descending order.
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+How is text mining different from using a search engine?
+
+Search engines are powerful tools that make huge quantities of information available to us. However, 
+the level of text analysis a search engine uses when crawling the web is basic compared to the way 
+text analytics tools and text mining techniques work.
+
+Rather than looking for keywords and other signals of quality and relevance as search engines do, a text mining algorithm 
+can parse and assess every word of a piece of content, often working in multiple languages. 
+
+Text mining algorithms may also take into account semantic and syntactic features of language to draw conclusions about
+the topic, the author’s emotions, and their intent in writing or speaking.
+
+
+
+
